@@ -10,7 +10,11 @@ We all know that our sleep is directly connected with our health, our mind, our 
 
 https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/52b1864e-7e6a-4ed7-81e9-a6b5c9661e89
 
+### Expercise Part:
+
 https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/dfbed737-fe6e-47d0-92a6-78cfc89affcb
+
+### Yoga & Other Activities Part:
 
 https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/c36b91eb-13e8-4c62-9821-c9100ed5bd55
 
