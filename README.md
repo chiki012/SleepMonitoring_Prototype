@@ -21,11 +21,11 @@ https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/c36b91eb-
 For any app or website, there is one thing that impacts too much which is #"User Consistency". For actively using this app I used a small game, doing these exercises, yoga, and all the things, users will get points for these activities. And there is a range of points after crossing that range user will be leveled up. 
 
 ### Range of Level: 1500 points = 1 Level
-0 - 4,000 points mean #RED pointer. 
+0 - 4,000 points mean #RED pointer. \
 4,000 - 8,000 points mean #PURPLE pointer. \
-8,000 - 12,000 points mean #GREEN pointer.
-12,000 - 16,000 points mean #YELLOW pointer.
-16,000 - 20,000 points mean #BLUE pointer.
+8,000 - 12,000 points mean #GREEN pointer. \
+12,000 - 16,000 points mean #YELLOW pointer. \
+16,000 - 20,000 points mean #BLUE pointer. \
 
 
 https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/3d6ea575-e8ab-4054-a1eb-12ccb53f73fe
