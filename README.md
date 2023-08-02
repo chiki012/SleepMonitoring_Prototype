@@ -2,7 +2,7 @@
 
 Snooze is a sleep monitoring app, which collects the user's bedtime, wakeup time, and set the duration of user's sleep. After the confirmation user can actually connect with my app. 
 
-https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/e56630a0-5d4c-4cd4-b8ab-d09e8cca5675
+https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/f65de7e7-1502-4b1e-a3d5-c9f6fefdc05d
 
 We all know that our sleep is directly connected with our health, our mind, our thinking, and our fitness. For better sleep, I presented a new thing that helps users to sleep well and improve their health. After setup all the timings, users will react at the app's most important page, where he/she can get in touch with Clam Sounds, Meditation, Exercises, Yoga, and other activities.
 
