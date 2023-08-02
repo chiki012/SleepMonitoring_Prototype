@@ -50,6 +50,11 @@ https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/5e40c3cf-
 ## Summarize:
 Snooze is an app prototype, which is created by me in my 4th semester. The idea behind this prototype is to encourage people to fit well and sleep well. For every UI, user consistency does a very big role. To cover this thing, I added a game section, because for doing anything everyone needs motivation/ a target/ a goal. By giving them ranking/points/coins/orders, the user interaction with my app, and the user consistency with my app will automatically increase. 
 
+
+<img width="777" alt="figma_sleep" src="https://github.com/chiki012/SleepMonitoring_Prototype/assets/127822363/ca61c995-0627-4ce5-b63f-f148e96397e1">
+
+## Tool Used: Figma 
+
 ### Made with ❤️ 
 # Thank You.
 
